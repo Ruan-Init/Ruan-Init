@@ -1,8 +1,8 @@
 # 👋 Olá, sou o Ruan!  
 
-### 🚀 Desenvolvedor e entusiasta de tecnologia
+### 🚀 Desenvolvedor e entusiasta de tecnologia  
 
-Sou apaixonado por desenvolvimento web, DevOps e computação em nuvem. Gosto de explorar novas tecnologias e construir projetos inovadores.
+Sou apaixonado por desenvolvimento web, DevOps e computação em nuvem. Gosto de explorar novas tecnologias e construir projetos inovadores.  
 
 ---
 
@@ -47,8 +47,12 @@ Sou apaixonado por desenvolvimento web, DevOps e computação em nuvem. Gosto de
 
 ## 📫 Contato  
 🔗 [LinkedIn](https://www.linkedin.com/in/ruan-carlos-espindola-da-silva-626b86183/)  
-📧 ruan.espindola17@gmail.com
+📧 ruan.espindola17@gmail.com  
 
 ---
 
 ⭐ Vamos colaborar e construir algo incrível juntos! 🚀  
+
+<div align="center">
+  <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="200" alt="GIF animado" />
+</div>
