@@ -46,7 +46,7 @@ Sou apaixonado por desenvolvimento web, DevOps e computação em nuvem. Gosto de
 ---
 
 ## 📫 Contato  
-🔗 [LinkedIn]([https://www.linkedin.com/in/seu-perfil/](https://www.linkedin.com/in/ruan-carlos-espindola-da-silva-626b86183/))  
+🔗 [LinkedIn](https://www.linkedin.com/in/ruan-carlos-espindola-da-silva-626b86183/)  
 📧 ruan.espindola17@gmail.com
 
 ---
