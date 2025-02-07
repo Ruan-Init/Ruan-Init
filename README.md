@@ -54,5 +54,5 @@ Sou apaixonado por desenvolvimento web, DevOps e computação em nuvem. Gosto de
 ⭐ Vamos colaborar e construir algo incrível juntos! 🚀  
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="200" alt="GIF animado" />
+  <img src="[https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGxydmEyMmU0ZDZlM2NpODl2YTJxMDlyMnBsMzVwdG45YWI2bnVrdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif)" width="200" alt="GIF animado" />
 </div>
