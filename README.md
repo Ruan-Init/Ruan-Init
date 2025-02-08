@@ -42,14 +42,17 @@ Sou apaixonado por desenvolvimento web, DevOps e computação em nuvem. Gosto de
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="50" alt="Yarn" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="Figma" />
 </div>  
+
+
 <a href="http://www.github.com/Ruan-Init"><img src="https://github-readme-stats.vercel.app/api?username=sauloviniciust&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sauloviniciust's GitHub stats" />
----
+
+  ---
 
 ## 📫 Contato  
 🔗 [LinkedIn](https://www.linkedin.com/in/ruan-carlos-espindola-da-silva-626b86183/)  
 📧 ruan.espindola17@gmail.com  
 
----
+ --- 
 
 ⭐ Vamos colaborar e construir algo incrível juntos! 🚀  
 
