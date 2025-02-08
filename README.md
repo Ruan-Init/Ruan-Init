@@ -4,14 +4,6 @@
 
 Sou apaixonado por desenvolvimento web, DevOps e computação em nuvem. Gosto de explorar novas tecnologias e construir projetos inovadores.  
 
-<br/>
-<p align="center" style="text-decoration: underline;"><b>I'm Ruan Carlos, from Distrito Federal/Brasil.<b/></p>
-<br/>
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizpibo&show_icons=true&theme=radical"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizpibo&langs_count=10&theme=radical&layout=compact"/>
-</div>
-
 ---
 
 ## 🔧 Tecnologias e Ferramentas  
