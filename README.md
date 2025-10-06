@@ -54,8 +54,7 @@ Sou apaixonado por desenvolvimento web, DevOps e computação em nuvem. Gosto de
 
 ⭐ Vamos colaborar e construir algo incrível juntos! 🚀  
 
-<br/><h3 align="center">Visitor's count :eyes:</h3><br/>
-<p align="center"><img src="https://profile-counter.glitch.me/{luizpibo}/count.svg" alt="contador luizpibo :: Visitor's Count" /></p>
+
 
 <div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDEwbzI1cTE2dzNzYnN5a2thdWo4OGNzMGNlNmM4NXI4ODdxcmRucSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="200" alt="GIF animado" />
